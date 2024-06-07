@@ -83,7 +83,8 @@ To ensure the code runs without error, it is recommended to clone the file struc
 - Pearson Correlation: Used to measure the strength and direction of a linear relationship between two variables.
 
 ## Results (still on going), here's the poster only:
-![Uploading Social Capital and Suicide in the United States.png…]()
+![Social Capital and Suicide in the United States](https://github.com/IgnatiusHarry/Social-Capital-Loss-and-Suicide-Rates-in-the-U.S.-2000-2022-/assets/169078557/002ae4f8-95ce-4617-b577-293f20d382bc)
+
 
 
 ## References
