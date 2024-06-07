@@ -82,10 +82,9 @@ To ensure the code runs without error, it is recommended to clone the file struc
 - Panel Data Fixed Effect Regression Analysis: Useful for time-series analyses with large sample sizes and controlling characteristics that do not change drastically over time.
 - Pearson Correlation: Used to measure the strength and direction of a linear relationship between two variables.
 
-## Results (ongoing)
-[2 Social Capital and Suicide in the United States.pdf](https://github.com/user-attachments/files/15741462/2.Social.Capital.and.Suicide.in.the.United.States.pdf)
+## Results (still on going), here's the poster only:
+![Uploading Social Capital and Suicide in the United States.png…]()
 
-![Map 2019](https://github.com/IgnatiusHarry/Social-Capital-Loss-and-Suicide-Rates-in-the-U.S.-2000-2022-/assets/169078557/bc93e652-4963-4fb1-930c-ef3927d64a3c)
 
 ## References
 Centers for Disease Control and Prevention (n.d.). Underlying Cause of Death, 1999-2020 Results. Retrieved April 1, 2022, from CDC Wonder
