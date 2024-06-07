@@ -83,10 +83,8 @@ To ensure the code runs without error, it is recommended to clone the file struc
 - Pearson Correlation: Used to measure the strength and direction of a linear relationship between two variables.
 
 ## Results (ongoing)
-- The analysis found a significant correlation between rising suicide rates and the increase in hate groups in the United States from 2000 to 2022.
-- we also will analyze the causal effect of hate groups on suicide rates.
-## Conclusion (ongoing)
-The study will provide valuable insights into the relationship between social capital loss and suicide rates in the United States. The findings will highlight the importance of addressing the social factors contributing to suicide and informing policymakers on the need to tackle hate crimes and support community cohesion.
+[2 Social Capital and Suicide in the United States.pdf](https://github.com/user-attachments/files/15741462/2.Social.Capital.and.Suicide.in.the.United.States.pdf)
+
 
 ## References
 Centers for Disease Control and Prevention (n.d.). Underlying Cause of Death, 1999-2020 Results. Retrieved April 1, 2022, from CDC Wonder
