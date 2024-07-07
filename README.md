@@ -13,7 +13,7 @@ Mario Haya - 羅俊杰 (🇺🇸)
 
 Marcella Alifia Kuswana Putri - 潘怡璇 (🇮🇩)
 
-Ignatius Harry Cahiadharma - 柯昱安 (🇮🇩) - Main Programmer
+Ignatius Harry Cahiadharma - 柯昱安 (🇮🇩) 
 
 Xóchitl Gutiérrez - 顧修齊 (🇺🇸)
 
