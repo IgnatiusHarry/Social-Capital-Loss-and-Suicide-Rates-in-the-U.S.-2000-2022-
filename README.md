@@ -1,4 +1,4 @@
-## Big Data Project 3 (on progress)
+## Big Data Project (on progress)
 
 
 # Suicide & Social Capital in the United States Counties (2000 - 2022) 
