@@ -53,7 +53,7 @@ Independent Variables:
 - Hate Crimes
 - Unemployment Rate
 - Poverty Rate
-- Religious Affiliation
+- Median Income
 - Etc.
   
 Dependent Variable:
