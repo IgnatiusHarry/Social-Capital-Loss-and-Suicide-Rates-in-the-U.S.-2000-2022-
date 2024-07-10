@@ -27,10 +27,6 @@ Given the limited research on this topic, this study seeks to elucidate the corr
 
 What is the relationship between suicide and ‘social capital loss’ in the United States (2000-2022)?
 
-H0: There is a strong relation between suicide and social capital loss.
-
-H1: There is no strong relation between suicide and social capital loss.
-
 ## Definition of 'Social Capital'
 Sociology defines 'Social Capital' as the pillars of a "functioning and stable society":
 - Employment
