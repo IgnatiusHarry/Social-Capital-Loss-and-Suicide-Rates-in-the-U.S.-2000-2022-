@@ -71,7 +71,7 @@ Code Files:
 To ensure the code runs without error, it is recommended to clone the file structure to your local system.
 
 ## Methodology
-- This study employs fixed-effects estimation of social capital loss on suicide rates across the United States from 2000 to 2022.
+- This study employs Pearson Correlation, OLS regression, and fixed-effects (with and without an intervention variable) estimation of social capital loss on suicide rates across the United States from 2000 to 2022.
 - This study also plots all of the suicide rates combined with the number of hate groups in each U.S. country
 
 **Analytical Techniques**
