@@ -99,7 +99,7 @@ Lastly, the upcoming 2024 presidential election in the United States will once a
 
 Systemic racism permeates all institutions in the United States, contributing to the ongoing issue of social capital loss. Suicide rates in the country are among the highest in the world, accompanied by increasing levels of inflation and limited policies enacted to counteract these trends, making it challenging for citizens to remain afloat. Furthermore, hateful rhetoric from the country’s own politicians perpetuates the continuation of hate groups and discrimination. It is imperative that more research is conducted on the potential causes of suicide and social capital loss in the United States.
 
-Note: We also created a poster included in this GitHub.
+Note: For more detailed information and references, kindly check our paper uploaded on this GitHub. Moreover, we also created a poster for this research.
 
 
 
