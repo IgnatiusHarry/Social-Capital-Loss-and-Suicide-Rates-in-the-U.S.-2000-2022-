@@ -81,7 +81,7 @@ To ensure the code runs without error, it is recommended that you clone the file
 **Analytical Techniques**
 - Pearson Correlation: Used to measure the strength and direction of a linear relationship between two variables.
 - Ordinary Least Squares regression (OLS): estimate the coefficients of linear regression equations that describe the relationship between one or more independent quantitative variables and a dependent variable.
-Panel Data Fixed-Effect Regression Analysis is useful for time-series analyses with large sample sizes and controlling characteristics that do not change drastically over time.
+- Panel Data Fixed-Effect Regression Analysis is useful for time-series analyses with large sample sizes and controlling characteristics that do not change drastically over time.
 
 
 ## Result, Conclusion and Future Research
