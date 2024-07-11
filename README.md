@@ -1,7 +1,7 @@
 ## Big Data Project
 
 
-# Suicide & Social Capital in the United States Counties (2000 - 2022) 
+# Exploring the Relationship Between Proxies of Social Capital Loss and Suicide In the United States (2000-2022)
 #### **Number of observations: 71,392**
 ________________
 
