@@ -17,13 +17,13 @@ Ignatius Harry Cahiadharma - 柯昱安 (🇮🇩)
 
 Xóchitl Gutiérrez - 顧修齊 (🇺🇸)
 
-### Project Description 
+## Project Description 
 This study aims to investigate the relationship between suicide rates and various proxies of 'Social Capital loss' in the United States from 2000 to 2022. The breakdown of society in the West, marked by rising rates of racism, hate speech, and discrimination, has been accompanied by an increase in suicide rates. 
 
 Given the limited research on this topic, this study seeks to elucidate the correlation and the causal effect between suicide rates and the increase in hate groups and hate crimes, among other factors.
 
 
-### Research Question
+## Research Question
 
 What is the relationship between suicide and ‘social capital loss’ in the United States (2000-2022)?
 
