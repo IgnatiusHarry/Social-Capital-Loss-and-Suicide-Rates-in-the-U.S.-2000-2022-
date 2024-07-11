@@ -68,9 +68,9 @@ Dependent Variable:
 
 ### R Code Files:
 We divided it into 3 parts of R code to make it cleaner and easier to run; you can check in the folder "**R file**".
-1. DATA CLEANING      : This file contains all code for cleaning in general. This code is located in "**#1 - DATA CLEANING.R**."
+1. DATA CLEANING      : This file contains all code for cleaning in general. This code is located in the file "**#1 - DATA CLEANING.R**."
 2. DATA VISUALIZATION : This file contains all the code for Map and Spatial Analysis (U.S. map and including ggplot, scatter plot, etc). It is located in the file "**#2 - DATA VISUALIZATION.R**".
-3. EMPIRICAL METHOD   : This file contains all the code for OLS and Panel Data Regression (Fixed Effect). It contains code for causality or regression analysis and is in the file "#**3 - EMPIRICAL METHOD.R**".
+3. EMPIRICAL METHOD   : This file contains all the code for Pearson Correlation, OLS , and Panel Data Regression (Fixed Effect). It contains code for causality or regression analysis and is in the file "#**3 - EMPIRICAL METHOD.R**".
 
 To ensure the code runs without error, it is recommended to clone the file structure to your local system.
 
@@ -79,7 +79,8 @@ To ensure the code runs without error, it is recommended to clone the file struc
 - This study also plots all of the suicide rates combined with the number of hate groups in each U.S. country
 
 **Analytical Techniques**
-- OLS and Panel Data Fixed Effect Regression Analysis: Useful for time-series analyses with large sample sizes and controlling characteristics that do not change drastically over time.
+- OLS
+- Panel Data Fixed Effect Regression Analysis: Useful for time-series analyses with large sample sizes and controlling characteristics that do not change drastically over time.
 - Pearson Correlation: Used to measure the strength and direction of a linear relationship between two variables.
 
 ## Result, Conclusion and Future Research
