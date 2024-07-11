@@ -62,11 +62,14 @@ Dependent Variable:
 **Number of observations: 71,392**
 
 ## File Structure
-
-- Data File: The cleaned data for the study is available in the file Suicide_Social_Capital_Data.xlsx.
-Code Files:
-- Map and Spatial Analysis: Contains all code for U.S. map and including ggplot. This code is located in the folder Map_and_Spatial_Analysis.R.
-- Panel Regression (Spatial and Fixed Effect): Contains code for causality or regression analysis and is located in the file Panel_Regression_Spatial_and_Fixed_Effect.R.
+Data File:
+- The cleaned and merged data, ready to analysis for the study, is available in the file "NEW_merged_data.xlsx."
+- The raw data for each variable can be checked and accessed in the folder of "raw data"
+R Code Files:
+We divided it into 3 parts of R code to make it cleaner and easier to run; you can check in the folder "R file.
+1. DATA CLEANING: This file contains all code for cleaning in general. This code is located in "**#1 - DATA CLEANING.R**."
+2. DATA VISUALIZATION: This file contains all the code for Map and Spatial Analysis (U.S. map and including ggplot, scatter plot, etc). It is located in the file "**#2 - DATA VISUALIZATION.R**".
+3. EMPIRICAL METHOD: This file contains all the code for OLS and Panel Data Regression (Fixed Effect). It contains code for causality or regression analysis and is in the file "#**3 - EMPIRICAL METHOD.R**".
 
 To ensure the code runs without error, it is recommended to clone the file structure to your local system.
 
@@ -75,11 +78,11 @@ To ensure the code runs without error, it is recommended to clone the file struc
 - This study also plots all of the suicide rates combined with the number of hate groups in each U.S. country
 
 **Analytical Techniques**
-- Panel Data Fixed Effect Regression Analysis: Useful for time-series analyses with large sample sizes and controlling characteristics that do not change drastically over time.
+- OLS and Panel Data Fixed Effect Regression Analysis: Useful for time-series analyses with large sample sizes and controlling characteristics that do not change drastically over time.
 - Pearson Correlation: Used to measure the strength and direction of a linear relationship between two variables.
 
 ## Result, Conclusion and Future Research
-This paper intends to explore the relationship between five social capital loss proxies and suicide across the United States at a county level. Putnam defines social capital as “features of social organization such as networks, norms, and social trust that facilitate coordination and cooperation for mutual benefit” (Putnam, 2000). Social capital is founded on individual actors and their relationships, as well as the social structures in which they are embedded. These associated norms are generally beneficial to those inside the network, but the external effects of social capital are not always positive. Social capital can be used for malevolent purposes such as the formation of hate groups, intolerant to change and differences, becoming less connected to society. Thus, hate groups become a proxy for social capital loss. Furthermore, level of unemployment, poverty, household income, and population size can also serve as proxies for social capital loss, as they can infer potential impacts on social trust, coordination and cooperation. 
+This paper intends to explore the relationship between five social capital loss proxies and suicide across the United States at a county level. Putnam defines social capital as “features of social organization such as networks, norms, and social trust that facilitate coordination and cooperation for mutual benefit” (Putnam, 2000). Social capital is founded on individual actors and their relationships and the social structures in which they are embedded. These associated norms are generally beneficial to those inside the network, but the external effects of social capital are not always positive. Social capital can be used for malevolent purposes such as the formation of hate groups, intolerant to change and differences, becoming less connected to society. Thus, hate groups become a proxy for social capital loss. Furthermore, level of unemployment, poverty, household income, and population size can also serve as proxies for social capital loss, as they can infer potential impacts on social trust, coordination and cooperation. 
 
 The analysis across multiple regression models provides varying insights into the factors influencing suicide rates. The Ordinary Least Squares model (OLS) model indicates a positive correlation in the increase of hate groups with higher suicide rates, suggesting counties with a higher prevalence of hate groups experience higher suicide rates. Similarly, counties with greater income levels, higher poverty rates, and larger populations also indicate a  positive correlation with elevated suicide rates. In contrast however, the OLS model indicates a negative correlation between unemployment and suicide rates, suggesting higher unemployment rates are linked to lower suicide rates. This model explains about 48 percent (R-squared = 0.4786) of the variation in suicide rates and a highly significant F-statistic (F = 7971, p < 0.01). 
 
