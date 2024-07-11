@@ -62,11 +62,11 @@ Dependent Variable:
 **Number of observations: 71,392**
 
 ## File Structure
-# Data File:
+### Data File:
 - The cleaned and merged data, ready to analysis for the study, is available in the file "**NEW_merged_data.xlsx**".
 - The raw data for each variable can be checked and accessed in the folder of "**raw data**"
 
-# R Code Files:
+### R Code Files:
 We divided it into 3 parts of R code to make it cleaner and easier to run; you can check in the folder "**R file**".
 1. DATA CLEANING      : This file contains all code for cleaning in general. This code is located in "**#1 - DATA CLEANING.R**."
 2. DATA VISUALIZATION : This file contains all the code for Map and Spatial Analysis (U.S. map and including ggplot, scatter plot, etc). It is located in the file "**#2 - DATA VISUALIZATION.R**".
